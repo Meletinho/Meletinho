@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor Backend & Entusiasta de Dados
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (4º Semestre) na UCSal, focado na construção de sistemas escaláveis e soluções baseadas em dados. Atualmente, estou me aprofundando em arquitetura de software com **Java Spring Boot** e explorando o universo de Data Science com **Python**.
+Estudante de **Análise e Desenvolvimento de Sistemas** (4º Semestre) na UCSal, focado na construção de sistemas escaláveis e soluções baseadas em dados. Minha paixão é transformar problemas complexos em código limpo e eficiente, transitando entre a robustez do **Java** e a capacidade analítica do **Python**.
 
 ---
 
@@ -14,10 +14,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (4º Semestre) na UCSal,
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Data & Analytics
+### Data & Frontend
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Ferramentas & DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -28,17 +28,33 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (4º Semestre) na UCSal,
 
 ## 🚀 Projetos em Destaque
 
-### 🛍️ [Filter Product - Retail Intelligence](https://github.com/Meletinho/Filter_Product)
-Plataforma de inteligência para varejo focada em ingestão massiva de dados e cálculo de lucratividade em tempo real.
-* **Tech:** Java 21, Spring Boot 3, Arquitetura em Camadas.
+### 🛍️ [Filter Product - Plataforma de Retail Intelligence](https://github.com/Meletinho/Filter_Product)
+**Tech:** Java 21, Spring Boot 3.3.x
+* Projetando uma arquitetura de alta escalabilidade para ingestão massiva de dados e cálculo de lucratividade em tempo real.
+* Desenvolvendo um sistema robusto de inteligência de varejo com previsão de demanda e recomendações automatizadas.
+* Fundação do projeto (fase Bootstrap) construída utilizando recursos modernos do Java 21 e Spring Boot 3.3.x.
 
-### 💳 [FiadoPay - Ecossistema de Pagamentos](https://github.com/Meletinho/FiadoPay_Backend)
-Backend robusto para processamento de pagamentos com foco em segurança e consistência de dados.
-* **Destaques:** Implementação de **Idempotência**, Motor Antifraude customizado e Java Reflection.
+### 💳 [FiadoPay - Sistema de Pagamentos & Antifraude](https://github.com/Meletinho/FiadoPay_Backend)
+**Tech:** Java 21, Spring Boot, H2
+* Desenvolvi um backend robusto para processamento de pagamentos implementando **idempotência** com chaves únicas para evitar transações duplicadas (Controle de concorrência).
+* Engenharia de um motor antifraude personalizado usando **Java Reflection** e anotações customizadas para avaliação dinâmica de regras.
+* Implementação de endpoints RESTful seguros, mapeamento DTO, Bean Validation e testes unitários.
 
-### 📊 [Dashboard de Salários na Área de Dados](https://github.com/Meletinho/Daschboard-Interativa)
-Dashboard interativo full-stack para análise exploratória de dados salariais globais.
-* **Tech:** Python, Streamlit, Pandas, Plotly.
+### 📊 [Dashboard Interativa - Análise de Dados Salariais](https://github.com/Meletinho/Daschboard-Interativa)
+**Tech:** Python, Streamlit, Pandas
+* Desenvolvimento de dashboard full-stack com Python e Streamlit para análise exploratória de dados salariais globais.
+* Implementação de visualizações de dados interativas (mapas coropléticos, histogramas, gráficos de pizza) utilizando a biblioteca Plotly.
+* Criação de sistema de filtragem dinâmica de dados (Pandas) baseada em múltiplos critérios (senioridade, ano, tamanho da empresa).
+
+### 🎮 [DSList - Plataforma de Jogos](https://github.com/Meletinho/dslist-backend)
+**Tech:** Spring Boot, H2, React
+* Construí um sistema de catálogo de jogos com algoritmo de reordenamento dinâmico utilizando arquitetura em camadas.
+* Implementação de endpoint de API REST específico para troca/reordenação de posições no banco de dados via interface drag-and-drop.
+
+### 🗺️ [Mapping Cordova - Sistema de Mapeamento](https://github.com/arthuolliveira/Mapping-cordova)
+**Tech:** Apache Cordova, HTML/CSS/JS, Java
+* Desenvolvi um aplicativo móvel híbrido usando Apache Cordova para facilitar a navegação interna e rastreamento de vagas em shoppings.
+* Solução multiplataforma (Android/iOS) utilizando tecnologias web para a interface e integração Java para plugins nativos.
 
 ---
 
