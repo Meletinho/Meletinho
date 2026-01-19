@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinicius Sena! 👋
+# Oooopa, eu sou Vini! 👋
 
 ### 👨‍💻 Desenvolvedor Backend & Entusiasta de Dados
 
