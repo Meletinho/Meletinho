@@ -70,6 +70,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (4º Semestre) na UCSal,
 ## 📫 Contato
 
 <div> 
-  <a href="https://www.linkedin.com/in/vinícius-sena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-sena-4bb8a526a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:vinipitta01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
