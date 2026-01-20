@@ -53,7 +53,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (4º Semestre) na UCSal,
 
 ### 🗺️ [Mapping Cordova - Sistema de Mapeamento](https://github.com/arthuolliveira/Mapping-cordova)
 **Tech:** Apache Cordova, HTML/CSS/JS, Java
-* Desenvolvi um aplicativo móvel híbrido usando Apache Cordova para facilitar a navegação interna e rastreamento de vagas em shoppings.
+* Participei do desenvolvimento do aplicativo móvel híbrido usando Apache Cordova para facilitar a navegação interna e rastreamento de vagas em shoppings.
 * Solução multiplataforma (Android/iOS) utilizando tecnologias web para a interface e integração Java para plugins nativos.
 
 ---
