@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor Backend & Entusiasta de Dados
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (4º Semestre) na UCSal, focado na construção de sistemas escaláveis e soluções baseadas em dados. Minha paixão é transformar problemas complexos em código limpo e eficiente, transitando entre a robustez do **Java** e a capacidade analítica do **Python**.
+Estudante de **Análise e Desenvolvimento de Sistemas** na UCSal, focado na construção de sistemas escaláveis e soluções baseadas em dados. Minha paixão é transformar problemas complexos em código limpo e eficiente, transitando entre a robustez do **Java** e a capacidade analítica do **Python**.
 
 ---
 
