@@ -1,6 +1,7 @@
 # Oooopa, eu sou Vini! 👋
 
-### 👨‍💻 Desenvolvedor Backend & Entusiasta de Dados
+### 👨‍💻 Desenvolvedor Backend &
+e Entusiasta de Dados
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na UCSal, focado na construção de sistemas escaláveis e soluções baseadas em dados. Minha paixão é transformar problemas complexos em código limpo e eficiente, transitando entre a robustez do **Java** e a capacidade analítica do **Python**.
 
