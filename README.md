@@ -70,20 +70,13 @@ Sou graduando em **Análise e Desenvolvimento de Sistemas** na UCSal e atuo de p
 
 ## ⚡ Estatísticas do GitHub
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Meletinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Vini" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meletinho&layout=compact&theme=dracula" alt="Top Linguagens" />
-</div>
+[![Estatísticas do Vini](https://github-readme-stats.vercel.app/api?username=Meletinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Meletinho)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Meletinho&layout=compact&theme=dracula)](https://github.com/Meletinho)
 
 ---
 
 ## 📫 Contato
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-sena-4bb8a526a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vinipitta01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-sena-4bb8a526a/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinipitta01@gmail.com)
