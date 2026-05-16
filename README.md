@@ -70,12 +70,17 @@ Sou graduando em **Análise e Desenvolvimento de Sistemas** na UCSal e atuo de p
 
 ## ⚡ Estatísticas do GitHub
 
-[![Estatísticas do Vini](https://github-readme-stats.vercel.app/api?username=Meletinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Meletinho)
+<div align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=Meletinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" 
+  />
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Meletinho&layout=compact&theme=dracula)](https://github.com/Meletinho)
-
----
-
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meletinho&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=1800" 
+  />
+</div>
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-sena-4bb8a526a/)
