@@ -81,6 +81,12 @@ Sou graduando em **Análise e Desenvolvimento de Sistemas** na UCSal e atuo de p
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Meletinho&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Meletinho&theme=tokyonight&hide_border=true"
+  />
+</p>
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-sena-4bb8a526a/)
